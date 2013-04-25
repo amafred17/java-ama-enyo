@@ -1,0 +1,3 @@
+git clone https://github.com/enyojs/bootplate.git
+cd bootplate
+git submodule update --init
